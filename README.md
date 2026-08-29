@@ -1,5 +1,7 @@
 # race-pace
 Hey
+- après une partie de "capture the flag " Mme et mR classical pop veulent jouer à des compétitions de sport ou musique pour le fun
+- 
 Race Pace
 A multi‑dimension race tracker for music, sport, and professional life—not just about speed, but about confidence, reflection, and the mental images that shape performance.
 🏁 Concept
