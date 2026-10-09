@@ -1,7 +1,8 @@
 # race-pace
 Hey
 - après une partie de "capture the flag " Mme et mR classical pop veulent jouer à des compétitions de sport ou musique pour le fun
-- 
+- articles de journaux avec les compétiteurs , les noms de pays et ce qu'il arrive
+- quel sport /musique c'est et les haut ou les bas 
 Race Pace
 A multi‑dimension race tracker for music, sport, and professional life—not just about speed, but about confidence, reflection, and the mental images that shape performance.
 🏁 Concept
