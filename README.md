@@ -1,6 +1,8 @@
 # race-pace
 Hey
-- après une partie de "capture the flag " Mme et mR classical pop veulent jouer à des compétitions de sport ou musique pour le fun
+- dans un pays , plusieurs pays font une compétition de sport /musique dans des articles de journaux
+- 
+- en mode login , images réelles pour la compétition 
 - ce que ce repository fait simplement : articles de journaux avec les compétiteurs , les noms de pays et ce qu'il arrive pendant une période 
 - quel sport /musique c'est et les haut ou les bas
 
