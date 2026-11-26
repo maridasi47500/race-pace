@@ -1,6 +1,6 @@
 # race-pace
 Hey
-- dans un pays , plusieurs pays font une compétition de sport /musique dans des articles de journaux
+- dans un pays , plusieurs pays font une compétition de sport /musique dans des articles de journaux et font des projets -du sport ensemble
 - 
 - en mode login , images réelles pour la compétition 
 - ce que ce repository fait simplement : articles de journaux avec les compétiteurs , les noms de pays et ce qu'il arrive pendant une période 
